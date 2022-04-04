@@ -12,8 +12,10 @@ Use the player dice (green outline) to eliminate all enemy dice (red outline).
 1. Left click and drag a player die over an enemy die to attack.
 2. Right click to reroll up to 2x per player die.
 3. You may reroll after an attack if the player die survives.
-4. There are 10 levels in total.
-5. Enjoy!
+4. You must win each level by at least 1.
+5. If you lose, you will be returned to level 1 (at least until I add game saving).
+6. There are 10 levels in total.
+7. Enjoy!
 
 ## Planned Features
 1. Mobile Controls

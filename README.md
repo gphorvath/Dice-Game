@@ -1,9 +1,9 @@
 # Dice-Game
 This repo serves as the release branch for my personal game development project (Dice Puzzle Adventure).
 
-Written in C# using Unity.
+Written in C# using Unity. Not current intended for mobile play.
 
-[Click here to play!](https://gphorvath.github.io/Dice-Game/).
+[Click here to play! (Will make sound!)](https://gphorvath.github.io/Dice-Game/).
 
 ## Objective
 Use the player dice (green outline) to eliminate all enemy dice (red outline).
@@ -16,9 +16,10 @@ Use the player dice (green outline) to eliminate all enemy dice (red outline).
 5. Enjoy!
 
 ## Planned Features
-1. Tutorial and/or Help Menu
-2. Main Menu
-3. Game Saving
-4. Settings Menu (Audio, Resolutiion, etc.)
-5. Level Selection Menu
-6. Additional Levels and Gameplay Elements.
+1. Mobile Controls
+2. Tutorial and/or Help Menu
+3. Main Menu
+4. Game Saving
+5. Settings Menu (Audio, Resolutiion, etc.)
+6. Level Selection Menu
+7. Additional Levels and Gameplay Elements.
